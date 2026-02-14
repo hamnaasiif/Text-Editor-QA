@@ -1,0 +1,35 @@
+# Large installers
+*.msi
+*.exe
+*.dmg
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# Build files
+target/
+build/
+bin/
+out/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Database files
+*.db
+*.sqlite
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*~
